@@ -35,7 +35,7 @@ Eterno explorador do mundo da tecnologia, sempre em busca de aprender algo novo 
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaelrequena/kaelrequena/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaelrequena/kaelrequena/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaelrequena/kaelrequena/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J0hnny022/J0hnny022/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J0hnny022/J0hnny022/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/J0hnny022/J0hnny022/output/github-contribution-grid-snake.svg">
 </picture>
