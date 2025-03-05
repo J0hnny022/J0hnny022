@@ -1,6 +1,6 @@
 # Olá! Eu sou o João Victor de Lima Quiroga!
 
-Eterno explorador do mundo da tecnologia, sempre em busca de aprender algo novo a cada dia nesse universo imenso. Gamer nos momentos de lazer.
+Eterno explorador do mundo da tecnologia, sempre em busca de aprender algo novo a cada dia nesse universo imenso.
 
 ## Conecte-se Comigo
 
